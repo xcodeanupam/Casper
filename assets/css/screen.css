@@ -168,6 +168,8 @@ body {
 
 .site-logo {
     max-height: 45px;
+    padding: 10px;
+
 }
 
 .site-description {
